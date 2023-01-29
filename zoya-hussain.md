@@ -24,11 +24,11 @@ Here is the link for the guide which I will be primarily following throughout th
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Raspberry Pi Model B+ | https://www.hexgamingstore.com/raspberry-pi-model-b-b-plus-512mb-computer-board?gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWISP_YCz8Y8RHVR8ro_Pezbuo0oSuc5yEPE5N8iQ3l3thR8yngDrGYxoCHFEQAvD_BwE | $37.85 |
+| Raspberry PI Model 3 B Rev 1.2 with Case | [https://www.hexgamingstore.com/raspberry-pi-model-b-b-plus-512mb-computer-board?gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWISP_YCz8Y8RHVR8ro_Pezbuo0oSuc5yEPE5N8iQ3l3thR8yngDrGYxoCHFEQAvD_BwE ](https://www.ebay.com/itm/175584306185?hash=item28e1a3e409:g:S2sAAOSw9~VjzsrX)| $41.00 |
 | 7.5in E-Ink Display HAT for Raspberry Pi | https://www.robotshop.com/products/800x480-75-inch-e-ink-display-hat-raspberry-pi?srsltid=AeTuncoMBhB3s-zCX5oajDsI_EG7u1fybVk9oZ4WpZrkK27vG6U2MibPr-k | $83.74 |
 | PowerBoost 500 Charger | https://www.adafruit.com/product/1944 | $32.86 |
 | Lithium Ion Polymer Battery - 3.7v 2500mAh | https://www.adafruit.com/product/328 | $31.76 |
 | Typewriter keyboard (Black) | https://www.amazon.com/Atelus-USB-Wired-Computer-Keyboard/dp/B0B2164HXH/ref=sr_1_18?keywords=typewriter%2Bkeyboard&qid=1673807726&sr=8-18&th=1 | $30.00 |
-| Printing for Case | JLCPCB or Xometry | Allotting $30.00 |
-| Total | | $246.22 |
+| Printing for Case | JLCPCB or Xometry | Allotting $28.00 |
+| Total | | $247.36 |
 
